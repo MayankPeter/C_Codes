@@ -1,0 +1,5 @@
+Array name represents the starting address of the array
+example:
+	a=20       &a=20
+	a+1=24	   &a+1=40 (if 5 elements)
+	
